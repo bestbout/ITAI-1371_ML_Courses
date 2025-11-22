@@ -13,12 +13,15 @@ This repository contains 3 lab exercises from [ML Courses], demonstrating practi
 
 │   ├── Lab1/
 │   │   ├── README.md
+
 │   │   └── Lab1_KhalidaBestani_ITAI1371.ipynb
 
 │   ├── Lab2/
 │   │   ├── README.md
+
 │   │   └── Lab2_KhalidaBestani_ITAI1371.ipynb
 
 │   └── Lab3/
 │       ├── README.md
+
 │       └── Lab3_KhalidaBestani_ITAI1371.ipynb
