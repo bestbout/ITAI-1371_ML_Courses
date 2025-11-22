@@ -1,1 +1,7 @@
-This lab covers the complete machine learning workflow and introduces different types of learning. You will learn how to structure an ML project from data acquisition and preprocessing to model training, evaluation, and interpretation. Key concepts include supervised vs. unsupervised learning, classification and regression tasks, and the iterative steps required to build effective ML models. The lab emphasizes understanding the workflow and applying it to real datasets to ensure reproducible and interpretable results.
+This lab focuses on understanding the full machine learning workflow and the different types of learning. Key topics include:
+- Structuring ML projects from data acquisition to model evaluation  
+- Supervised vs. unsupervised learning  
+- Classification and regression tasks  
+- Iterative steps for model development, training, and evaluation  
+
+Students learn to apply the ML workflow systematically to real datasets, ensuring reproducible and interpretable results.
