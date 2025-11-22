@@ -1,1 +1,7 @@
-his lab focuses on building and evaluating classification models in a practical machine learning workflow. You will learn to implement algorithms such as Logistic Regression, Decision Trees, and Random Forests, and understand their strengths and limitations. The lab emphasizes proper model evaluation using metrics like accuracy, precision, recall, F1-score, ROC/AUC, and confusion matrices. By the end of this lab, you will be able to select, train, and assess classifiers while interpreting their results to make data-driven decisions.
+This lab emphasizes building and evaluating classification models in practice. Topics covered include:
+- Implementing Logistic Regression, Decision Trees, and Random Forests  
+- Comparing model performance using accuracy, precision, recall, F1-score, ROC/AUC, and confusion matrices  
+- Understanding model strengths, limitations, and interpretability  
+- Applying proper evaluation techniques to select and refine models  
+
+By completing this lab, students gain practical experience in training, evaluating, and interpreting classification models effectively.
