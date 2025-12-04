@@ -1,4 +1,4 @@
-# Lab 2: Building and Evaluating Classification Models
+# Lab 3: Building and Evaluating Classification Models
 
 ### What the Lab is About
 This lab emphasizes building and evaluating classification models in practice. Topics covered include:
