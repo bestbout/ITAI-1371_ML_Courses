@@ -1,4 +1,4 @@
-# Lab 3: Basic Machine Learning Models
+# Lab 1: Basic Machine Learning Models
 
 ### What the Lab is About
 This lab introduces fundamental machine learning concepts and the end-to-end process of building a first predictive model. We worked with important Python libraries (Pandas, NumPy, Scikit-learn, Matplotlib) and practiced:
