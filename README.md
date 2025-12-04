@@ -15,26 +15,17 @@ I'm studying machine learning because I find it very interesting how computers c
 (More labs or assignments will be added later if needed.)
 
 ### Repository Structure
+```plaintext
 ├── README.md
-
 ├── Labs/
-
 │   ├── Lab1/
-
 │   │   ├── README.md
-
 │   │   └── Lab1_KhalidaBestani_ITAI1371.ipynb
-
 │   ├── Lab2/
-
 │   │   ├── README.md
-
 │   │   └── Lab2_KhalidaBestani_ITAI1371.ipynb
-
 │   └── Lab3/
-
 │       ├── README.md
-
 │       └── Lab3_KhalidaBestani_ITAI1371.ipynb
 
 This repository contains all my lab notebooks and explanations of what I learned in each one.
