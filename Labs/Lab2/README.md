@@ -1,4 +1,4 @@
-# Lab 1: Machine Learning Workflow and Types of Learning
+# Lab 2: Machine Learning Workflow and Types of Learning
 
 ### What the Lab is About
 This lab focuses on understanding the full machine learning workflow and the different types of learning. Key topics include:
